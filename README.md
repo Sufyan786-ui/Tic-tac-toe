@@ -56,11 +56,6 @@ Replace with your own screenshot if desired
 
 💻 How to Run Locally
 
-Clone the repository:
-
-git clone https://github.com/username/tic-tac-toe.git
-
-
 Open index.html in your preferred web browser.
 
 ⭐ Future Enhancements
